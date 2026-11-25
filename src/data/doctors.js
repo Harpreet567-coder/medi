@@ -1,0 +1,122 @@
+export const initialDoctors = [
+  {
+    id: "DOC-2001",
+    name: "Dr. Sarah Jenkins",
+    specialization: "Interventional Cardiology",
+    department: "Cardiology",
+    phone: "+1 (555) 111-2222",
+    email: "s.jenkins@medicare.com",
+    experience: "14 Years",
+    availability: "Mon, Wed, Fri (09:00 AM - 04:00 PM)",
+    status: "Active",
+    consultationFee: 150
+  },
+  {
+    id: "DOC-2002",
+    name: "Dr. Robert Chen",
+    specialization: "Clinical Neurophysiology",
+    department: "Neurology",
+    phone: "+1 (555) 222-3333",
+    email: "r.chen@medicare.com",
+    experience: "18 Years",
+    availability: "Tue, Thu, Sat (08:30 AM - 03:30 PM)",
+    status: "Active",
+    consultationFee: 180
+  },
+  {
+    id: "DOC-2003",
+    name: "Dr. Emily Taylor",
+    specialization: "Orthopedic Surgery & Trauma",
+    department: "Orthopedics",
+    phone: "+1 (555) 333-4444",
+    email: "e.taylor@medicare.com",
+    experience: "11 Years",
+    availability: "Mon, Tue, Thu (10:00 AM - 05:00 PM)",
+    status: "Active",
+    consultationFee: 140
+  },
+  {
+    id: "DOC-2004",
+    name: "Dr. David Kim",
+    specialization: "Pediatric Care & Critical Medicine",
+    department: "Pediatrics",
+    phone: "+1 (555) 444-5555",
+    email: "d.kim@medicare.com",
+    experience: "9 Years",
+    availability: "Mon - Fri (09:00 AM - 02:00 PM)",
+    status: "Active",
+    consultationFee: 120
+  },
+  {
+    id: "DOC-2005",
+    name: "Dr. Amanda White",
+    specialization: "Cosmetic & Surgical Dermatology",
+    department: "Dermatology",
+    phone: "+1 (555) 555-6666",
+    email: "a.white@medicare.com",
+    experience: "12 Years",
+    availability: "Wed, Fri, Sat (11:00 AM - 06:00 PM)",
+    status: "Active",
+    consultationFee: 130
+  },
+  {
+    id: "DOC-2006",
+    name: "Dr. Michael Ross",
+    specialization: "Internal Medicine & General Care",
+    department: "General Medicine",
+    phone: "+1 (555) 666-7777",
+    email: "m.ross@medicare.com",
+    experience: "20 Years",
+    availability: "Mon - Sat (08:00 AM - 04:00 PM)",
+    status: "Active",
+    consultationFee: 100
+  },
+  {
+    id: "DOC-2007",
+    name: "Dr. James Wilson",
+    specialization: "Emergency Trauma & Surgery",
+    department: "Emergency",
+    phone: "+1 (555) 777-8888",
+    email: "j.wilson@medicare.com",
+    experience: "16 Years",
+    availability: "24/7 On-Call Rotation",
+    status: "Active",
+    consultationFee: 200
+  },
+  {
+    id: "DOC-2008",
+    name: "Dr. Lisa Ray",
+    specialization: "Diagnostic Radiology & Imaging",
+    department: "Radiology",
+    phone: "+1 (555) 888-9999",
+    email: "l.ray@medicare.com",
+    experience: "10 Years",
+    availability: "Mon, Wed, Thu (09:00 AM - 05:00 PM)",
+    status: "Active",
+    consultationFee: 160
+  },
+  {
+    id: "DOC-2009",
+    name: "Dr. Marcus Vance",
+    specialization: "Cardiothoracic Surgery",
+    department: "Cardiology",
+    phone: "+1 (555) 999-0000",
+    email: "m.vance@medicare.com",
+    experience: "22 Years",
+    availability: "Tue, Fri (08:00 AM - 02:00 PM)",
+    status: "On Leave",
+    consultationFee: 220
+  },
+  {
+    id: "DOC-2010",
+    name: "Dr. Sophia Patel",
+    specialization: "Pediatric Neurology",
+    department: "Neurology",
+    phone: "+1 (555) 000-1111",
+    email: "s.patel@medicare.com",
+    experience: "8 Years",
+    availability: "Mon, Thu, Sat (10:00 AM - 04:00 PM)",
+    status: "Active",
+    consultationFee: 165
+  }
+];

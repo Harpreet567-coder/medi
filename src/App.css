@@ -1,0 +1,4 @@
+/* App Level Styles */
+.app-content-wrapper {
+  animation: fadeIn 0.25s ease-in-out;
+}

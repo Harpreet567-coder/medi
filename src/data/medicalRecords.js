@@ -1,0 +1,122 @@
+export const initialMedicalRecords = [
+  {
+    id: "MR-7001",
+    patientId: "PAT-1001",
+    patientName: "Eleanor Vance",
+    diagnosis: "Stage 1 Essential Hypertension & Arrhythmia",
+    symptoms: "Occasional dizziness, shortness of breath on exertion",
+    doctorId: "DOC-2001",
+    doctorName: "Dr. Sarah Jenkins",
+    date: "2026-08-10",
+    treatment: "Antihypertensive pharmacotherapy & 24h Holter monitoring",
+    notes: "Patient responds well to Lisinopril. BP stabilized at 128/82 mmHg."
+  },
+  {
+    id: "MR-7002",
+    patientId: "PAT-1002",
+    patientName: "Marcus Thorne",
+    diagnosis: "Chronic Migraine with Visual Aura",
+    symptoms: "Unilateral throbbing headache, photophobia, scotoma",
+    doctorId: "DOC-2002",
+    doctorName: "Dr. Robert Chen",
+    date: "2026-08-12",
+    treatment: "Triptan abortive therapy + Prophylactic magnesium & B2",
+    notes: "Brain MRI unremarkable. Recommended stress management & sleep hygiene."
+  },
+  {
+    id: "MR-7003",
+    patientId: "PAT-1003",
+    patientName: "Sophia Martinez",
+    diagnosis: "Right Knee Anterior Cruciate Ligament Sprain",
+    symptoms: "Joint swelling, localized pain, mild instability",
+    doctorId: "DOC-2003",
+    doctorName: "Dr. Emily Taylor",
+    date: "2026-08-15",
+    treatment: "Conservative RICE protocol, knee bracing, physical therapy",
+    notes: "Grade I sprain. No surgical intervention required at present."
+  },
+  {
+    id: "MR-7004",
+    patientId: "PAT-1004",
+    patientName: "Jameson Blake",
+    diagnosis: "Acute Bronchitis",
+    symptoms: "Productive cough, mild fever (100.4°F), chest tightness",
+    doctorId: "DOC-2006",
+    doctorName: "Dr. Michael Ross",
+    date: "2026-08-11",
+    treatment: "Oral antibiotics, bronchodilator syrup, steam inhalation",
+    notes: "Full clinical recovery observed at 7-day follow up visit."
+  },
+  {
+    id: "MR-7005",
+    patientId: "PAT-1005",
+    patientName: "Aria Montgomery",
+    diagnosis: "Pediatric Acute Otitis Media (Right Ear)",
+    symptoms: "Ear tugging, irritability, low-grade fever",
+    doctorId: "DOC-2004",
+    doctorName: "Dr. David Kim",
+    date: "2026-08-14",
+    treatment: "Analgesic ear drops & pediatric antipyretics",
+    notes: "Tympanic membrane redness reduced significantly after 48 hours."
+  },
+  {
+    id: "MR-7006",
+    patientId: "PAT-1006",
+    patientName: "Lucas Sterling",
+    diagnosis: "Acute Contact Dermatitis",
+    symptoms: "Pruritic erythematous rash on forearm",
+    doctorId: "DOC-2005",
+    doctorName: "Dr. Amanda White",
+    date: "2026-08-16",
+    treatment: "Topical corticosteroid ointment & oral antihistamines",
+    notes: "Traced to environmental allergen exposure during gardening."
+  },
+  {
+    id: "MR-7007",
+    patientId: "PAT-1007",
+    patientName: "Olivia Harrison",
+    diagnosis: "Acute Gastroenteritis with Moderate Dehydration",
+    symptoms: "Severe nausea, abdominal cramps, watery diarrhea",
+    doctorId: "DOC-2007",
+    doctorName: "Dr. James Wilson",
+    date: "2026-08-18",
+    treatment: "Intravenous fluid resuscitation & antiemetic therapy",
+    notes: "Admitted to ER observation ward. Electrolyte levels normalized."
+  },
+  {
+    id: "MR-7008",
+    patientId: "PAT-1008",
+    patientName: "Ethan Wright",
+    diagnosis: "Persistent Persistent Non-specific Chest Discomfort",
+    symptoms: "Atypical sharp chest pain aggravated by deep inspiration",
+    doctorId: "DOC-2008",
+    doctorName: "Dr. Lisa Ray",
+    date: "2026-08-17",
+    treatment: "Contrast CT Imaging & Cardiac Biomarker Screening",
+    notes: "CT scan rules out Pulmonary Embolism & Aortic Dissection."
+  },
+  {
+    id: "MR-7009",
+    patientId: "PAT-1009",
+    patientName: "Chloe Zhao",
+    diagnosis: "Sinus Tachycardia Secondary to Stress",
+    symptoms: "Palpitations, anxiety, resting heart rate 110 bpm",
+    doctorId: "DOC-2001",
+    doctorName: "Dr. Sarah Jenkins",
+    date: "2026-08-13",
+    treatment: "Low-dose beta blocker & relaxation therapy",
+    notes: "Echocardiogram normal. Heart rate controlled to 74 bpm."
+  },
+  {
+    id: "MR-7010",
+    patientId: "PAT-1010",
+    patientName: "Benjamin Foster",
+    diagnosis: "Lumbar Radiculopathy (L4-L5)",
+    symptoms: "Lower back pain radiating down left leg, numbness",
+    doctorId: "DOC-2002",
+    doctorName: "Dr. Robert Chen",
+    date: "2026-08-08",
+    treatment: "Neuropathic pain medication & targeted lumbar physio",
+    notes: "MRI confirms mild nerve root compression. Follow up in 4 weeks."
+  }
+];
